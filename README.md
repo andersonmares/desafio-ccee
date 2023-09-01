@@ -14,4 +14,4 @@ mvn spring-boot:run`
 
 - Abra a IDE de sua preferência e importe o projeto clonado e aguarde o download de todas dependências do projeto
 
-- Execute o arquivo com a classe main DesafioVrApplication.java
+- Execute o arquivo com a classe main ApiCceeApplication.java.java
